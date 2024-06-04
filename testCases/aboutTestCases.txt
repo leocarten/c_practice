@@ -1,0 +1,3 @@
+a test case is code that helps make sure that a function, method (or chunk of code) behaves as expected.
+
+for example, imagine we had am 'add' function. a test case would validate that it works as expected.
